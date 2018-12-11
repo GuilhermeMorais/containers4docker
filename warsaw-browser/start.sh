@@ -30,6 +30,9 @@ case ${1} in
   itau)
     run "http://www.itau.com.br"
   ;;
+    bradesco)
+    run "https://www.bradesco.com.br"
+  ;;
   bb)
     run "https://www2.bancobrasil.com.br/aapf/login.jsp?aapf.IDH=sim&perfil=1"
   ;;
